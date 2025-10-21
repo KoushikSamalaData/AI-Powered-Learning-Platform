@@ -1,0 +1,8 @@
+streamlit
+langchain_openai
+langchain_core
+hashlib
+json
+subprocess
+datetime
+requests
