@@ -30,11 +30,17 @@ Core Libraries	streamlit, langchain_openai, hashlib, json, subprocess, datetime
 
 
 🗂️ Project Structure
+
 AI-Powered-Learning-Mentor/
+
 │
+
 ├── Login.py                # Main Streamlit app with login and mentor modules
+
 ├── users.json              # Stores registered users (auto-created)
+
 ├── requirements.txt        # Dependencies
+
 └── README.md               # Documentation
 
 
