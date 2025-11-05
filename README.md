@@ -17,6 +17,7 @@ It features a secure login & registration system, AI mentorship, real code execu
 ✅ 📖 Bookmarks & Notes — Save AI responses and write personal learning notes.
 ✅ 📥 Report Export — Download session progress as a formatted text report.
 
+
 🧩 Tech Stack
 Component	Technology
 Frontend/UI	Streamlit
@@ -26,6 +27,8 @@ Data Storage	JSON (for users and progress)
 Authentication	SHA256 password hashing
 Core Libraries	streamlit, langchain_openai, hashlib, json, subprocess, datetime
 
+
+
 🗂️ Project Structure
 AI-Powered-Learning-Mentor/
 │
@@ -33,6 +36,7 @@ AI-Powered-Learning-Mentor/
 ├── users.json              # Stores registered users (auto-created)
 ├── requirements.txt        # Dependencies
 └── README.md               # Documentation
+
 
 📦 Example requirements.txt
 streamlit
@@ -43,6 +47,7 @@ hashlib
 json
 subprocess
 datetime
+
 
 🧭 Usage Guide
 
